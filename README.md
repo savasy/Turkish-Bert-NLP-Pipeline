@@ -1,6 +1,11 @@
 # Turkish-Bert-NLP-Pipeline
 Bert-base NLP pipeline for Turkish,  Ner, Sentiment Analysis, Question Answering etc.
 
+
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+
+
 Turkish NLP Pipeline with BERT
 
 1. Sentiment Analysis
