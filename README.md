@@ -3,7 +3,7 @@ Bert-base NLP pipeline for Turkish,  Ner, Sentiment Analysis, Question Answering
 
 For PipeLine in a nutshell please check the file *Turkish NLP Pipeline.ipynb*
 
-Turkish NLP Pipeline with BERT
+## Turkish NLP Pipeline with BERT
 
 1. Sentiment Analysis
 https://huggingface.co/savasy/bert-base-turkish-sentiment-cased
