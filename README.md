@@ -6,7 +6,7 @@ For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ip
 
 ## Details of Pipeline
 
-1. Sentiment Analysis
+1. **Sentiment Analysis**
 
 * Pre-built model 
 * *  https://huggingface.co/savasy/bert-base-turkish-sentiment-cased
@@ -15,7 +15,7 @@ For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ip
 * * https://github.com/savasy/TurkishSentimentAnalysis
 
 
-2. NER Model
+2. **NER Model**
 
 * Pre-built model
 
@@ -25,7 +25,7 @@ For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ip
 
 * * https://github.com/savasy/Turkish-Bert-Based-NERModel
 
-3. Question Answering
+3. **Question Answering**
 
 * Pre-Built model
 
@@ -35,10 +35,10 @@ For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ip
 
 * * https://huggingface.co/savasy/bert-base-turkish-squad
 
-4. Text Summarization
+4. *Text Summarization*
 _will be soon_
 
-5. Text Categorization
+5. **Text Categorization**
 
 * Pre-built model
 
