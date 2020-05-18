@@ -8,21 +8,48 @@ For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ip
 
 1. Sentiment Analysis
 
-https://huggingface.co/savasy/bert-base-turkish-sentiment-cased
+* Pre-built model 
+* *  https://huggingface.co/savasy/bert-base-turkish-sentiment-cased
+
+* How to use it 
+* * https://github.com/savasy/TurkishSentimentAnalysis
+
 
 2. NER Model
 
-https://huggingface.co/savasy/bert-base-turkish-ner-cased
+* Pre-built model
+
+* * https://huggingface.co/savasy/bert-base-turkish-ner-cased
+
+* How to use it
+
+* * https://github.com/savasy/Turkish-Bert-Based-NERModel
 
 3. Question Answering
 
-https://huggingface.co/savasy/bert-base-turkish-squad
+* Pre-Built model
+
+* * https://huggingface.co/savasy/bert-base-turkish-squad
+
+* How to use it
+
+* * https://huggingface.co/savasy/bert-base-turkish-squad
 
 4. Text Summarization
 _will be soon_
 
 5. Text Categorization
-_will be soon_
+
+* Pre-built model
+
+* * https://huggingface.co/savasy/bert-turkish-text-classification
+
+* How to use it
+
+* * https://github.com/savasy/TurkishTextClassification
+
+
+
 
 
 These models are fined tuned based on Turkish-Bert model
