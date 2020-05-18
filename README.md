@@ -55,6 +55,9 @@ _will be soon_
 These models are fined tuned based on Turkish-Bert model
 https://github.com/stefan-it/turkish-bert
 
+
+All my models are found under
+
 http://huggingface.co/savasy/
 
 Plesa see Python Notebook file "Turkish NLP Pipeline with BERT.ipynb"
