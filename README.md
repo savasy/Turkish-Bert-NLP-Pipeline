@@ -2,8 +2,8 @@
 ## Pipeline in a nutshell
 In this project we aim at building Bert-base NLP pipeline for Turkish;  Name Entity Recognition (Ner), Sentiment Analysis, Question Answering, _**Summarization**_ and _**Text Categorization**_.
 
-    * For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline.ipynb**](https://github.com/savasy/Turkish-Bert-NLP-Pipeline/blob/master/Turkish%20NLP%20Pipeline.ipynb)
-    * For detailed application please check **Turkish NLP Pipeline For Presentation.ipynb**](https://github.com/savasy/Turkish-Bert-NLP-Pipeline/blob/master/Turkish%20NLP%20Pipeline%20Presentation.ipynb)
+* For the pipeline in a nutshell, please check the file [**Turkish NLP Pipeline- Quick Start .ipynb**](https://github.com/savasy/Turkish-Bert-NLP-Pipeline/blob/master/Turkish%20NLP%20Pipeline.ipynb)
+* For detailed application please check [**Turkish NLP Pipeline (For Detailed Presentation).ipynb**](https://github.com/savasy/Turkish-Bert-NLP-Pipeline/blob/master/Turkish%20NLP%20Pipeline%20Presentation.ipynb)
 
 ## Details of Pipeline
 
